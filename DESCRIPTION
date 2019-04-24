@@ -1,0 +1,20 @@
+Package: Mulcom
+Type: Package
+Title: Calculates Mulcom test
+Version: 1.32.1
+Date: 2011-10-08
+Author: Claudio Isella
+Maintainer: Claudio Isella <claudio.isella@ircc.it>
+Depends: R (>= 2.10), fields, Biobase
+Imports: graphics, grDevices, stats, methods
+Description: Identification of differentially expressed genes and false discovery rate (FDR) calculation by Multiple Comparison test.
+License: GPL-2
+LazyLoad: yes
+Packaged: 2018-10-30 23:16:13 UTC; biocbuild
+biocViews: StatisticalMethod, MultipleComparison, Microarray, DifferentialExpression, GeneExpression
+git_url: https://git.bioconductor.org/packages/Mulcom
+git_branch: RELEASE_3_8
+git_last_commit: 4f49fd6
+git_last_commit_date: 2018-10-30
+Date/Publication: 2018-10-30
+NeedsCompilation: yes
